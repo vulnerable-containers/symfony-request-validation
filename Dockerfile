@@ -1,4 +1,4 @@
-FROM php:8.2.7-alpine
+FROM php:8.2.35-alpine
 
 WORKDIR /var/www/api
 
